@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">finalprojekt</string>
+    <string name="weather_app">Weather APP</string>
+    <string name="Search">search</string>
+    <string name="insert_city">Insert City</string>
+    <string name="search">Search</string>
+</resources>
